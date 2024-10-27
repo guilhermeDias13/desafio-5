@@ -12,8 +12,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./src/shared/server.js --ignore node_modules"
-
+    "dev": "nodemon ./src/shared/server.js --ignore node_modules",
+    "start": "node ./src/shared/server.js"
   },
   "keywords": [],
   "author": "",
